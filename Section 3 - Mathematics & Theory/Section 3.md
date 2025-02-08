@@ -1,4 +1,4 @@
-# Section 11: Mathematics & Theory
+# Section 3: Mathematics & Theory
 ## Discrete Mathematics
 - Set Theory
 - Logic
