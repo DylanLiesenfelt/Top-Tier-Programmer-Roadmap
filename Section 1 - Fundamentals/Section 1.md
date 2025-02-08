@@ -2,13 +2,11 @@
 
 ## Problem Solving
 - Analytical Thinking
-  - [MIT OpenCourseware: Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+  - [MIT OpenCourseware: Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/download/)
 - Breaking Down Complex Problems
-  - [How to Solve It by Polya](https://math.berkeley.edu/~gmelvin/polya.pdf)
+  - How to Solve It by Polya (Check Books Folder)
 - Design Patterns
   - [Refactoring.Guru Design Patterns](https://refactoring.guru/design-patterns)
-- Problem-Solving Strategies
-  - [Stanford CS Problem-Solving Strategies](https://web.stanford.edu/class/cs9/)
 - Algorithmic Thinking
   - [Algorithmic Thinking by Rice University](https://www.coursera.org/learn/algorithmic-thinking-1)
 
@@ -41,29 +39,17 @@
 - Kanban
   - [Atlassian Kanban Guide](https://www.atlassian.com/agile/kanban)
 - Waterfall
-  - [Traditional Project Management](https://www.pmi.org/)
-- Lean Development
-  - [Lean Enterprise Institute](https://www.lean.org/explore-lean/what-is-lean/)
+  - [Waterfall Methodology](https://www.atlassian.com/agile/project-management/waterfall-methodology)
 
-**📚 Comprehensive Book:**
-- "Essential Scrum" by Kenneth S. Rubin
 
 ## Technical Writing
-- Documentation Standards
-  - [Google Technical Writing Course](https://developers.google.com/tech-writing)
-- API Documentation
-  - [OpenAPI Specification](https://swagger.io/specification/)
 - Code Comments
   - [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
-- Technical Specifications
-  - [IEEE Software Requirements Specification Template](https://standards.ieee.org/)
+
 - User Guides
   - [Write the Docs Guide](https://www.writethedocs.org/guide/)
 - README Writing
   - [Make a README](https://www.makeareadme.com/)
-
-**📚 Comprehensive Book:**
-- "Docs for Developers" by Jared Bhatti et al.
 
 ## Git
 - Version Control Concepts
@@ -79,38 +65,27 @@
 - Code Review Practices
   - [Google Code Review Guide](https://google.github.io/eng-practices/review/)
 
-**📚 Comprehensive Book:**
-- "Pro Git" by Scott Chacon and Ben Straub
-
 ## Workflow and Best Practices
 - Code Review Processes
   - [Google Engineering Practices](https://google.github.io/eng-practices/)
-- Documentation Standards
-  - [ReadTheDocs Documentation Guide](https://docs.readthedocs.io/)
 - IDE Mastery
   - [VSCode Documentation](https://code.visualstudio.com/docs)
-- Development Tools
-  - [GitHub Learning Lab](https://lab.github.com/)
 - Package Management
   - [Python Packaging User Guide](https://packaging.python.org/)
 - Clean Code Principles
   - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
-- SOLID Principles
-  - [SOLID Digital](https://solid-digital.com/insights)
-- Regular Expressions
-  - [RegexOne Interactive Tutorial](https://regexone.com/)
 
 **📚 Comprehensive Books:**
 - "Clean Code" by Robert C. Martin
 - "The Pragmatic Programmer" by Andrew Hunt and David Thomas
 
 ## Python & Coding Basics
+- Python Documentation
+  - [Documentation](https://docs.python.org/3/) 
 - Basic Syntax
   - [Python.org Tutorial](https://docs.python.org/3/tutorial/)
 - Data Types
   - [Real Python: Data Types](https://realpython.com/python-data-types/)
-- Control Structures
-  - [Python Control Flow](https://python.land/python-control-flow)
 - Functions
   - [Python Functions Guide](https://realpython.com/defining-your-own-python-function/)
 - Modules
@@ -119,9 +94,9 @@
   - [PyPA Guide](https://www.pypa.io/en/latest/)
 - Virtual Environments
   - [Python Virtual Environments Guide](https://docs.python.org/3/tutorial/venv.html)
+- Havard CS50 - Full Computer Science University
+  - [Video](https://www.youtube.com/watch?v=8mAITcNt710)
 
-**📚 Comprehensive Book:**
-- "Python Crash Course" by Eric Matthes
 
 ## Error Handling
 - Try-Catch Blocks

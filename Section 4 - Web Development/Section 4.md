@@ -54,7 +54,8 @@
 - API Design
 - Authentication
 - Rate Limiting
-- Documentation
+- API Documentation
+  - [OpenAPI Specification](https://swagger.io/specification/)
 
 ## Web Architecture
 - Frontend Stacks
